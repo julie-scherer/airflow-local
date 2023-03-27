@@ -2,7 +2,7 @@
 
 # Deploy Airflow Locally
 
-This repo deploys Apache Airflow in Docker on your local machine in one simple `make airflow run` command. It’s based on the [Airflow Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/start.html) tutorial and intended for those who want to learn more about how Airflow runs, or if you’re having trouble with the Quick Start and want to use this to try and figure out what’s going wrong (everything’s in the `run-airflow-locally.sh` script)
+This repo deploys Apache Airflow on your local machine in one simple `make airflow run` command. It’s based on the [Airflow Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/start.html) tutorial and intended for those who want to learn more about how Airflow runs, or if you’re having trouble with the Quick Start and want to use this to try and figure out what’s going wrong (everything’s in the `run-airflow-locally.sh` script)
 
 **Table of Contents**
 
