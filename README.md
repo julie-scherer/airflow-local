@@ -6,9 +6,9 @@ This repo deploys Apache Airflow on your local machine in one simple `make airfl
 
 **Table of Contents**
 
-- [About the repo](https://www.notion.so/About-the-repo-c8c614cbb2b64a98af5849a7d09e7a0a)
-- [How to run](https://www.notion.so/How-to-run-79c9f455cb85436b82320e025dd6e48b)
-- [**Roadmap**](https://www.notion.so/Roadmap-172f39d7d5244601b887e1a139965284)
+- [**About the repo**](#about-the-repo)
+- [**How to run**](#how-to-run)
+- [**Roadmap**](#roadmap)
 
 ## About the repo
 
