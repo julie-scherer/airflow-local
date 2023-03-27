@@ -51,6 +51,4 @@ Once it's done running, you can access the Airflow UI at [http://localhost:8080]
 
 ## **Roadmap**
 
-This is a part of a multi-series project I’m working on where I’m exploring running Airflow in different environments, from testing (local) to dev (Docker) to production (Kubernetes). For more, see [airflow-local](https://github.com/schererjulie/airflow-local) and [airflow-kubernetes-eks](https://github.com/schererjulie/airflow-kubernetes-eks).
-
 This is a part of a multi-series project I’m working on where I’m exploring running Airflow in different environments, from testing to dev to production. For more, see [airflow-docker](https://github.com/schererjulie/airflow-docker) and [airflow-kubernetes-eks](https://github.com/schererjulie/airflow-kubernetes-eks).
